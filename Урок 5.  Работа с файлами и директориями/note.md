@@ -1,5 +1,5 @@
 ## Урок 5. Работа с файлами и директориями
-### [Ссыклка на урок](https://www.youtube.com/watch?v=jifzdBvUmEs&list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq)
+### [Ссыклка на урок](https://www.youtube.com/watch?v=jifzdBvUmEs)
 
 
 | Команда | Расшифровка                        | Описание                      | Аргумент | Описание |
